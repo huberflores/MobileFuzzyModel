@@ -1,4 +1,9 @@
-MobileFuzzyModel
-================
+Mobile Cloud Fuzzy Model
+========================
 
-Model for mobile application partitioning 
+Fuzzy Logic Model for mobile application partitioning. 
+
+
+
+
+
