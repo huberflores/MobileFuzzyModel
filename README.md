@@ -1,7 +1,7 @@
 Mobile Cloud Fuzzy Model
 ========================
 
-Fuzzy Logic Model for mobile application partitioning. 
+Fuzzy Logic Model decision engine for computational offloading-based Java
 
 
 
