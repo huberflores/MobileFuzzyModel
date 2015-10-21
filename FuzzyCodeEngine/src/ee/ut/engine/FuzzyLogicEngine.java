@@ -65,7 +65,7 @@ public class FuzzyLogicEngine {
 		bfc.fuzzify("BANDWIDTH", 100);  
 		bfc.fuzzify("CPULOAD", 10);
 		bfc.fuzzify("CONNECTIONS", 150);
-	     
+	      
 	     
 	    CentroidMethod cm=new CentroidMethod();
 	    cm.setSamplesPoints(10);
